@@ -1,8 +1,5 @@
 sdfdsfsfsdfsfcsf;dsj f;dasdadodsadasdasdsadfjldsdasdasdsjfkdslkjfsdfdsfsdsfsfdsadasdsada
 fsdlkfjdsflkjsfkjksdasdsadasddsaldjfjdsfddsadfgdgdddsadrerewrwrdsdssdsadsadadasdsa
-
-
-tayyayayayayayayay
 <distributionManagement>
 	<repository>
 		<id>tata</id>
