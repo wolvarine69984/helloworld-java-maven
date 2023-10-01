@@ -1,7 +1,7 @@
 sdfdsfsfsdfsfcsf;dsj f;dasdadodsadasdasdsadfjldsdasdasdsjfkdslkjfsdfdsfsdsfsfdsadasdsada
 fsdlkfjdsflkjsfkjksdasdsadasddsaldjfjdsfddsadfgdgdddsadrerewrwrdsdssdsadsadadasdsa
 
-# ========================NEXUS==============================------------------------
+
 tayyayayayayayayay
 <distributionManagement>
 	<repository>
