@@ -2,6 +2,7 @@ fsdlkfjdsflkjsfkjksdasdsadasddsaldjfjdsfddsadfgdgdddsadrerewrwrdsdssdsadsadadasd
 <distributionManagement>
 	<repository>
 		<id>tata</id>
+gfdgdfgfdgdfgdfgfd
 		<name>Internal Releases</name>
 		<url>http://13.127.163.182:8081/repository/scmgalaxy/</url>
 	</repository>
