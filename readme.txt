@@ -1,4 +1,3 @@
-sdfdsfsfsdfsfcsf;dsj f;dasdadodsadasdasdsadfjldsdasdasdsjfkdslkjfsdfdsfsdsfsfdsadasdsada
 fsdlkfjdsflkjsfkjksdasdsadasddsaldjfjdsfddsadfgdgdddsadrerewrwrdsdssdsadsadadasdsa
 <distributionManagement>
 	<repository>
